@@ -10634,6 +10634,38 @@
     ]
   },
   "Centurion_TU4": {
+    "name": "센츄리온",
+    "img": "Centurion",
+    "type": "경장 공격기",
+    "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
+    "HP": {
+      "base": 3000,
+      "increment": 72.5
+    },
+    "ATK": {
+      "base": 80,
+      "increment": 9.25
+    },
+    "DEF": {
+      "base": 30,
+      "increment": 2
+    },
+    "AGI": 4,
+    "CRT": 10,
+    "HIT": 175,
+    "DOD": 20,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "Centurion_N_Skill1",
+      "Centurion_N_Skill2",
+      "Centurion_N_Skill3"
+    ]
+  },
+  "Centurion_TU4": {
     "name": "百夫长",
     "img": "Centurion",
     "type": "轻型 攻击机",
